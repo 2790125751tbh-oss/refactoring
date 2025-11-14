@@ -1,4 +1,6 @@
-01b6fd4 (HEAD -> main) getAmount fixed
+184d23f (HEAD -> main) Task 2.2
+109c781 Task 2.1
+01b6fd4 getAmount fixed
 8e3b711 Task 1.2
 3418d42 (origin/main, origin/HEAD) Task 1.1 done
 ecf11fa Initial commit
